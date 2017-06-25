@@ -1,0 +1,68 @@
+html,body {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Cinzel', serif;
+}
+
+.contact {
+	display: flex;
+	justify-content: space-between;
+	overflow-x: scroll;
+}
+
+.contact span {
+	padding: 10px;
+	display: flex;
+	align-items: center;
+}
+
+.contact img {
+	height: 18px;
+}
+
+.mast {
+	background: #eadac0;
+}
+
+.logo {
+	width: 550px;
+	max-width: 100%;
+	display: block;
+	margin: auto;
+}
+
+.menu {
+	border: 1px solid black;
+}
+
+ul {
+	list-style: none;
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+li {
+	font-weight: bold;
+	font-size: 22px;
+}
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+
+.font-2,.content-section {
+	font-family: 'Old Standard TT', serif;
+}
+
+.content-section {
+	display: flex;
+	justify-content: space-around;
+	text-align: center;
+	flex-wrap: wrap;
+}
+

@@ -1,0 +1,16 @@
+Done
+bold categories
+borders for the cat
+spacing 
+align with temple town
+font size
+use the entire width like ethan allen
+move contact info to corners
+
+
+ToDo
+
+contact us page simon horn
+
+Google Maps API Key
+AIzaSyAT9KetRGHFtECH_5EovHZ9Dq2MASu3vcY
