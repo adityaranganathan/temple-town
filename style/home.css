@@ -43,11 +43,24 @@ ul {
 	display: flex;
 	justify-content: space-around;
 	flex-wrap: wrap;
+	padding: 0;
 }
+
+@media(max-width: 1000px) {
+	ul {
+		display: block;
+	}
+
+	li {
+		margin-top: 16px;
+	}
+}
+
 
 li {
 	font-weight: bold;
 	font-size: 22px;
+	text-align: center;
 }
 a {
 	text-decoration: none;
